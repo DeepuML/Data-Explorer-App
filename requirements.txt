@@ -1,6 +1,9 @@
 streamlit
-matplotlib
-pandas 
-numpy 
+pandas
+numpy
 seaborn
+matplotlib
+scipy
+ydata-profiling
+streamlit-pandas-profiling
 openpyxl
