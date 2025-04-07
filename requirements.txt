@@ -7,3 +7,4 @@ scipy
 ydata-profiling
 streamlit-pandas-profiling
 openpyxl
+setuptools
